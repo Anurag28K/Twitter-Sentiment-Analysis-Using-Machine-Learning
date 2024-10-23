@@ -1,6 +1,6 @@
-**Twitter Sentiment Analysis Using Machine Learning**
+###**Twitter Sentiment Analysis Using Machine Learning**
 
-**Overview**
+#**Overview**
 
 This project involves building a machine learning model to perform sentiment analysis on tweets. The objective is to classify the sentiments of tweets as positive or negative based on their textual content. The project uses the Sentiment140 dataset from Kaggle and includes preprocessing, feature extraction, and model building to analyze sentiment trends on Twitter.
 
