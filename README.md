@@ -24,11 +24,11 @@ Contains 1.6 million tweets labeled for sentiment analysis (0 for negative and 4
 
 ## **Columns:**
 
-|**Column Name**	|   **Description**|
-
+| **Column Name**	|            **Description**                           |
+|-----------------|------------------------------------------------------|
 | target	        |   Sentiment of the tweet (0 = Negative, 4 = Positive)|
-
-|  text	          |   The actual tweet content|
+|-----------------|------------------------------------------------------|
+|  text	          |   The actual tweet content                           |
 
 ## **Insights**
 
